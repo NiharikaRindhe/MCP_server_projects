@@ -1,4 +1,4 @@
-MCP - Acts as a bridge between AI models and external resourses , toold, etc . 
+MCP - Acts as a bridge between AI models and external resourses , tools, etc . 
 1. **Weather Server** 🌦️  
    - Fetches real-time weather details and forecasts.  
    - Can be integrated with MCP clients like **Claude for Desktop**.  
